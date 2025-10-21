@@ -7,7 +7,7 @@
   -  Ask me about DSA, OOPs, or algorithms
   -  Reach me at: guptajineesha@gmail.com
 
- ## My Tech Stack
+ ### My Tech Stack
   - C++
   - Java
   - HTML
